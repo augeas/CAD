@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CAD</string>      
+    <string name="automaton_prompt">Select Automaton</string>
+    <string name="par_prompt">Parameters</string>
+    <string name="draw">Draw</string>
+    <string name="parameters">Parameters</string>
+    <string name="seed_prompt">Select Seed</string>
+    <string name="seedparameters">Seed Parameters</string>
+    <string name="res_prompt">Set Resolution</string>
+</resources>
